@@ -5,7 +5,8 @@
 ### ElectriVision Reporters (Android only):
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.3   | :white_check_mark: Recommended (Latest) |
+| 3.0.0  | :white_check_mark: Recommended (Latest) |
+| 1.0.3   | :white_check_mark: Deprecated |
 | 1.0.2 | :white_check_mark: Deprecated |
 | 1.0.1   | :white_check_mark: Deprecated |
 | < 1.0.0   | :x: |
