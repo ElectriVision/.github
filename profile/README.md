@@ -25,7 +25,8 @@
 ### ElectriVision Administrator (Web only):
 | Version | Supported          |
 | ------- | ------------------ |
-| 3.0.0 | :white_check_mark: Recommended (Latest) |
+| 4.0.0 | :white_check_mark: Recommended (Latest) |
+| 3.0.0 | :x: |
 | 2.0.1 |  :x: |
 | 2.0.0 |  :x: |
 | < 1.0.0 | :x: |
